@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "Stack.h"
+#include "StackImpl.h"
 int main()
 {
 	Stack obj;
